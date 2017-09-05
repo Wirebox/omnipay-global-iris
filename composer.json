@@ -22,7 +22,7 @@
     ],
     "repositories": [{
         "type": "vcs",
-        "url": "https://github.com/Wirebox/omnipay-realex"
+        "url": "git://github.com/Wirebox/omnipay-realex"
      }],
     "autoload": {
         "psr-0": { "Omnipay\\GlobalIris\\" : "src/" }
