@@ -25,9 +25,9 @@
         "url": "https://github.com/Wirebox/omnipay-realex"
      }],
     "autoload": {
-        "psr-0": { "Omnipay\\GlobalIris\\" : "src/" }
+        "psr-4": { "Omnipay\\GlobalIris\\" : "src/" }
     },
     "require": {
-	"digitickets/omnipay-realex": "dev-tssfix"
+	    "digitickets/omnipay-realex": "dev-upgrade"
     }
 }
